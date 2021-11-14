@@ -1,0 +1,36 @@
+h1{
+    color:chocolate
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    background: rgb(0, 255, 255);
+}
+
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    background:lightcoral;
+}
+
+.footer{
+    display:flex;
+    justify-content: center;
+    background:indianred;
+}
+
+.description{
+    background:chocolate;
+
+}
+
+h2,p{
+    text-align:center;
+    color:maroon;
+}
+
+p{
+    font-size:xx-large;
+}
